@@ -1,2 +1,24 @@
-# inf264-python-crash-course
-A crash course for students enrolled in the course INF264 – Introduction to Machine Learning.
+# INF264 – Python Crash Course 
+
+Welcome to the INF264 Python crash course. This repository contain guides covering different topics and Python libraries required for completing homeworks and the mandatory projects in INF264.
+
+## Prerequisites
+
+It is assumed that you are familiar with the basics of Python programming including data types and structures, conditional statements, functions, loops etc.
+
+If you feel you need to brush up on your Python skills, have a look at the free online course [Python Programming MOOC 2023](https://programming-23.mooc.fi/) (part 1 – 7).
+
+---
+
+## Table of Contents
+
+0. [Installing required software](./install_conda.md) (Complete this step prior to the physical crash course.)
+1. [Basics of NumPy](./numpy.md)
+2. [Basics of pandas](./pandas.md)
+3. [Plotting with Pyplot](./pyplot.md)
+
+---
+
+## Tech Support
+
+If you encounter any problems, please ask a group leader or ask in the Discord channel [#technical-help](https://discord.com/channels/1248589525341704254/1248593123026927726).
