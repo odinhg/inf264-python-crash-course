@@ -29,7 +29,14 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	6.1.0	/v6.1.0/
+1. Installing Anaconda	install_conda.md	/^## 1. Installing Anaconda$/;"	s	chapter:Installing Required Software
+2. Create an Environment	install_conda.md	/^## 2. Create an Environment$/;"	s	chapter:Installing Required Software
+3. Managing the Environment	install_conda.md	/^## 3. Managing the Environment$/;"	s	chapter:Installing Required Software
+A Quick Introduction to NumPy	numpy.md	/^# A Quick Introduction to NumPy$/;"	c
+A Quick Introduction to Plotting with Pyplot	pyplot.md	/^# A Quick Introduction to Plotting with Pyplot$/;"	c
+A Quick Introduction to pandas	pandas.md	/^# A Quick Introduction to pandas$/;"	c
 INF264 – Python Crash Course	README.md	/^# INF264 – Python Crash Course $/;"	c
+Installing Required Software	install_conda.md	/^# Installing Required Software$/;"	c
 Prerequisites	README.md	/^## Prerequisites$/;"	s	chapter:INF264 – Python Crash Course
 Table of Contents	README.md	/^## Table of Contents$/;"	s	chapter:INF264 – Python Crash Course
 Tech Support	README.md	/^## Tech Support$/;"	s	chapter:INF264 – Python Crash Course

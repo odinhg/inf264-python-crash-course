@@ -12,7 +12,7 @@ If you feel you need to brush up on your Python skills, have a look at the free 
 
 ## Table of Contents
 
-0. [Installing required software](./install_conda.md) (Complete this step prior to the physical crash course.)
+0. [Installing required software](./install_conda.md)
 1. [Basics of NumPy](./numpy.md)
 2. [Basics of pandas](./pandas.md)
 3. [Plotting with Pyplot](./pyplot.md)
