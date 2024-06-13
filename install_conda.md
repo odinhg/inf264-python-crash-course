@@ -14,7 +14,7 @@ We will now create a new Anaconda environment to be used when working on exercis
 
 1. Open a terminal window.
 2. Run the command `conda create --name=INF264 python` to create a new environment named `INF264` with the latest Python version.
-3. Run the command `conda activate INF264` to active the newly create environment.
+3. Run the command `conda activate INF264` to activate the newly create environment.
 4. Run `conda install -c conda-forge numpy scikit-learn jupyter pandas matplotlib` to download and install the required packages. 
 
 To test that everything is working as expected, create a new notebook by running `jupyter-lab` and create and run a code cell with the following content:
@@ -30,7 +30,7 @@ If the cell runs without any import errors, congratulations! If you get any erro
 
 ## 3. Managing the Environment
 
-Enter the environment by running `conda activate INF264`. To exit the `INF264` environment, simply run `conda deactivate INF264`.
+Enter the environment by running `conda activate INF264`. To exit the `INF264` environment, simply run `conda deactivate`.
 
 (Optional) To update all packages in your environment, run `conda update --all` (when the environment is already activated).
 

@@ -35,6 +35,7 @@
 A Quick Introduction to NumPy	numpy.md	/^# A Quick Introduction to NumPy$/;"	c
 A Quick Introduction to Plotting with Pyplot	pyplot.md	/^# A Quick Introduction to Plotting with Pyplot$/;"	c
 A Quick Introduction to pandas	pandas.md	/^# A Quick Introduction to pandas$/;"	c
+Exercises	numpy.md	/^## Exercises$/;"	s	chapter:A Quick Introduction to NumPy
 INF264 – Python Crash Course	README.md	/^# INF264 – Python Crash Course $/;"	c
 Installing Required Software	install_conda.md	/^# Installing Required Software$/;"	c
 Prerequisites	README.md	/^## Prerequisites$/;"	s	chapter:INF264 – Python Crash Course
