@@ -1,4 +1,4 @@
-# Installing Required Software
+# Installing Required Software for INF264
 
 ## 1. Installing Anaconda
 
@@ -15,7 +15,7 @@ We will now create a new Anaconda environment to be used when working on exercis
 1. Open a terminal window.
 2. Run the command `conda create --name=INF264 python` to create a new environment named `INF264` with the latest Python version.
 3. Run the command `conda activate INF264` to activate the newly create environment.
-4. Run `conda install -c conda-forge numpy scikit-learn jupyter pandas matplotlib` to download and install the required packages. 
+4. Run `conda install -c conda-forge numpy scikit-learn jupyter pandas matplotlib ipykernel` to download and install the required packages. 
 
 To test that everything is working as expected, create a new notebook by running `jupyter-lab` and create and run a code cell with the following content:
 
@@ -25,6 +25,21 @@ import numpy
 import pandas
 import matplotlib.pyplot
 ```
+
+**If your are using VSCode, you can also work with the Jupyter notebooks there.** After opening a notebook in VSCode, choose the `INF264` environment as the kernel for your notebook. To do this, click on the kernel name or the "Select Kernel" button in the top right corner of the notebook and choose the `INF264` environment.
+
+**Useful notebook shortcuts:**
+- Arrow keys to navigate between cells.
+- `Shift + Enter` to run the current cell and move to the next one.
+- `Ctrl + Enter` to run the current cell and stay in the same cell.
+- `Esc` to enter command mode.
+- `Enter` to enter edit mode.
+- `A` to insert a new cell above the current cell.
+- `B` to insert a new cell below the current cell.
+- `DD` to delete the current cell.
+- `M` to change the current cell to a Markdown cell.
+- `Y` to change the current cell to a code cell.
+
 
 If the cell runs without any import errors, congratulations! If you get any error message(s), ask a group leader for help or post your question in the Discord channel [#technical-help](https://discord.com/channels/1248589525341704254/1248593123026927726). 
 
