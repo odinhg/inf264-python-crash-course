@@ -10,14 +10,14 @@ To install Anaconda, click the link below corresponding to your operating system
 
 ## 2. Create an Environment
 
-We will now create a new Anaconda environment to be used when working on exercises and projects in INF264.
+We will now create a new Anaconda environment for INF264.
 
 1. Open a terminal window.
 2. Run the command `conda create --name=INF264 python` to create a new environment named `INF264` with the latest Python version.
 3. Run the command `conda activate INF264` to activate the newly create environment.
 4. Run `conda install -c conda-forge numpy scikit-learn jupyter pandas matplotlib ipykernel` to download and install the required packages. 
 
-To test that everything is working as expected, create a new notebook by running `jupyter-lab` and create and run a code cell with the following content:
+To test that everything is working as expected, create a new notebook by running `jupyter-lab` (if you use VS Code, see below) and create and run a code cell with the following content:
 
 ```python
 import sklearn
