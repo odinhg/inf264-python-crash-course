@@ -20,4 +20,4 @@ If you feel you need to brush up on your Python skills, have a look at the free 
 
 ## Tech Support
 
-If you encounter any problems, please ask a group leader or ask in the Discord channel [#technical-help](https://discord.com/channels/1248589525341704254/1248593123026927726) (problems with installing required packages) or the channel [#numpy-crash-course](https://discord.com/channels/1248589525341704254/1248645036946620488).
+If you encounter any problems, please ask a group leader or ask in the Discord channel [#python-crash-course](https://discord.com/channels/1248589525341704254/1248645036946620488).
