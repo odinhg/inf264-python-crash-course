@@ -131,3 +131,7 @@ It is recommended to work through the NumPy notebooks in the order they are list
 **Matplotlib Notebook**
 
 Download and go through the notebook [A Short Introduction to Matplotlib](notebooks/matplotlib_001.ipynb).
+
+**Solutions**
+
+You are encouraged to try to complete all the exercises on your own. If you get completly stuck, notebooks with solutions can be found in the directory `notebooks/with_solutions`.
