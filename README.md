@@ -6,9 +6,6 @@ If you encounter any problems, feel free to ask a group leader or post your ques
 
 You are also very welcome to join the dedicated crash course session on **Monday, August 19th from 0815 to 1000** in the room **Aktivt rom 2+3 - Marineholmen** (ground floor at Høyteknologisenteret).
 
-
-
-
 ## Prerequisites <!-- omit from toc --> 
 
 We will assume that you are familiar with the basics of Python programming including topics such as data types and structures, conditional statements, functions, loops etc.
@@ -112,6 +109,12 @@ The documentation for matplotlib can be found [here (link)](https://matplotlib.o
 
 
 ## Notebooks with Examples and Exercises
+
+You can download all the notebooks by downloading this repository as a ZIP file (see screenshot below), or use `git clone` if you are familiar with git.
+
+![Download zipped repo](figs/download_repo.png)
+
+If you use VS Code, go to `File >> Open Folder...` and choose the directory `notebooks` (after unzipping the repository). Remember to choose the `INF264` environment as the kernel for the notebooks.
 
 **NumPy Notebooks**
 
