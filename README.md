@@ -8,9 +8,7 @@ You are also very welcome to join the dedicated crash course session on **Monday
 
 ## Prerequisites <!-- omit from toc --> 
 
-We will assume that you are familiar with the basics of Python programming including topics such as data types and structures, conditional statements, functions, loops etc.
-
-If you feel you need to brush up on your Python skills, have a look at the free online course [Python Programming MOOC 2023](https://programming-23.mooc.fi/) (part 1 – 7).
+We will assume that you are familiar with the basics of Python programming including topics such as data types and structures, conditional statements, functions, loops etc. If you feel you need to brush up on your Python skills, have a look at the free online course [Python Programming MOOC 2023](https://programming-23.mooc.fi/) (part 1 – 7).
 
 ## Table of Contents <!-- omit from toc --> 
 - [Installing Required Software for INF264](#installing-required-software-for-inf264)
@@ -64,7 +62,6 @@ If your are using VSCode, you can also work with Jupyter notebooks there.
 
 ![animation showing how to create a jupyter notebook in vs code](figs/create_notebook_vs_code.gif)
 
-If you get any error message(s), ask a group leader or post your question in the Discord channel [#technical-help](https://discord.com/channels/1248589525341704254/1248593123026927726). 
 
 **Useful notebook shortcuts:**
 - Arrow keys to navigate between cells.
