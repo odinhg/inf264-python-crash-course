@@ -50,7 +50,21 @@ import pandas
 import matplotlib.pyplot
 ```
 
-**If your are using VSCode, you can also work with the Jupyter notebooks there.** After opening a notebook in VSCode, choose the `INF264` environment as the kernel for your notebook. To do this, click on the kernel name or the "Select Kernel" button in the top right corner of the notebook and choose the `INF264` environment.
+**Notebooks in VS Code Instructions**
+
+If your are using VSCode, you can also work with Jupyter notebooks there.
+
+
+1. Install the *Jupyter* extension in VS Code (if you do not have it).
+2. Create a new file `File >> New File ...` and choose `Jupyter Notebook`.
+3. Click `Select Kernel` in the upper right corner and choose the kernel `INF264` that we created using Anaconda.
+4. Edit the code cell by clicking on it and paste the above code with imports.
+5. Press the "play button" on the cell (or `Ctrl + Enter`) to run the code cell.
+6. If everything is installed properly, you should see no error messages.
+
+![animation showing how to create a jupyter notebook in vs code](figs/create_notebook_vs_code.gif)
+
+If you get any error message(s), ask a group leader or post your question in the Discord channel [#technical-help](https://discord.com/channels/1248589525341704254/1248593123026927726). 
 
 **Useful notebook shortcuts:**
 - Arrow keys to navigate between cells.
@@ -65,7 +79,6 @@ import matplotlib.pyplot
 - `Y` to change the current cell to a code cell.
 
 
-If the cell runs without any import errors, congratulations! If you get any error message(s), ask a group leader for help or post your question in the Discord channel [#technical-help](https://discord.com/channels/1248589525341704254/1248593123026927726). 
 
 ## 3. Managing the Environment
 
